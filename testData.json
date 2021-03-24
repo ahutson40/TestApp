@@ -1,18 +1,18 @@
 {
-   "pets": [
-      {
-         "name": "Lola",
-         "type": "Cat",
-         "speak": "meow",
-         "Color": "grey"
-         "hasBeenFed": true
-      },
-      {
-         "name": "Mia",
-         "type": "Dog",
-         "speak": "Woof",
-         "Color": "Brown"
-         "hasBeenFed": false
-      }
-   ]
+    "pets": [
+        {
+            "name": "Lola",
+            "type": "Cat",
+            "speak": "meow",
+            "Color": "grey",
+            "hasBeenFed": true
+        },
+        {
+            "name": "Mia",
+            "type": "Dog",
+            "speak": "Woof",
+            "Color": "Brown",
+            "hasBeenFed": false
+        }
+    ]
 }
